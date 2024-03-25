@@ -1,7 +1,7 @@
 # SCTUnet
 Code for paper “A self-configuring Transformer Deep Network for welding radiographic image defect segmentation” 
 
-Parts of codes are borrowed from [nnUNet](https://github.com/MIC-DKFZ/nnUNet), about dataset you can follow the settings in nnUNet for path configurations and preprocessing procedures [Dataset](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_format.md).
+Parts of codes are borrowed from [nnUNet](https://github.com/MIC-DKFZ/nnUNet), about [Dataset](https://github.com/MIC-DKFZ/nnUNet/blob/master/documentation/dataset_format.md) you can follow the settings in nnUNet for path configurations and preprocessing procedures .
 
 ## Training
 nnUNetv2_train 5 2d 0
